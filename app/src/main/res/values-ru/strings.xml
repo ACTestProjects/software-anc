@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_text">Пожалуйста выберите режим отмены шума:</string>
+    <string name="app_name">Усилитель звука</string>
+    <string name="mode_no_cancel">Без шумоподавления</string>
+    <string name="mode_full_surrounding">Прозрачность</string>
+    <string name="mode_noise_cancellation">Шумоподавление</string>
+    <string name="err_no_permission">Приложение требует для работы разрешение на запись звука</string>
+    <string name="err_no_wired_headphones_header">Нет подключенных проводных наушников</string>
+    <string name="err_no_wired_headphones_text">Ваше устройство не имеет подключенных к нему проводных наушников, необходимых для правильной работы приложения</string>
+    <string name="err_text">Ошибка</string>
+    <string name="menu_selanomic">Выбрать микрофон</string>
+    <string name="anyway">Всё равно продолжить</string>
+    <string name="menu_useoldrec">Использовать старый метод</string>
+    <string name="warn_new_method_header">Внимание</string>
+    <string name="warn_new_method_text">Новый метод очень нестабильный и даже может сломать ваши наушники. Продолжайте на свой страх и риск</string>
+    <string name="err_newmethodfailed">Новый метод не смог инициализироваться. Приложение сейчас закроется</string>
+</resources>

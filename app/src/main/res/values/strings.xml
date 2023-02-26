@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sound Amplifier</string>
+    <string name="select_text">Please select noise cancellation mode:</string>
+    <string name="mode_no_cancel">No Noise Cancellation</string>
+    <string name="mode_full_surrounding">Full Surrounding</string>
+    <string name="mode_noise_cancellation">Noise Cancellation</string>
+    <string name="err_no_permission">Software ANC requires permission to record audio</string>
+    <string name="err_no_wired_headphones_header">No Wired Headphones</string>
+    <string name="err_no_wired_headphones_text">Your device doesn\'t have wired headphones connected to it. It needed for app to work with no discomfort</string>
+    <string name="err_text">Error</string>
+    <string name="menu_selanomic">Select another microphone</string>
+    <string name="anyway">Continue anyway</string>
+    <string name="menu_useoldrec">Use old recorder</string>
+    <string name="warn_new_method_header">Warning</string>
+    <string name="warn_new_method_text">New recorder is very unstable and even may destroy your headphones. Do not use it if you do not want to</string>
+    <string name="err_newmethodfailed">New method has failed to initialize! App will close now</string>
+</resources>
